@@ -316,7 +316,7 @@ public class PhoneActivity extends AppCompatActivity {
 
     }
     public  void testMethod(){
-int x=5+2;
+int x=5+20;
     }
 
 
