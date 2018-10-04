@@ -32,14 +32,14 @@ import com.google.firebase.auth.PhoneAuthProvider;
 import com.tuyenmonkey.mkloader.model.Line;
 
 import java.util.concurrent.TimeUnit;
-
+//hello git
 public class PhoneActivity extends AppCompatActivity {
 
     private static final String TAG = "PhoneAuthActivity";
 
     private static final String KEY_VERIFY_IN_PROGRESS = "key_verify_in_progress";
 
-    private static final int STATE_INITIALIZED = 1;
+    private static final int  STATE_INITIALIZED = 100;
     private static final int STATE_CODE_SENT = 2;
     private static final int STATE_VERIFY_FAILED = 3;
     private static final int STATE_VERIFY_SUCCESS = 4;
