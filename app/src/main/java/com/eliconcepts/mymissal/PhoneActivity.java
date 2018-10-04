@@ -315,6 +315,9 @@ public class PhoneActivity extends AppCompatActivity {
         }
 
     }
+    public  void testMethod(){
+
+    }
 
 
 }
