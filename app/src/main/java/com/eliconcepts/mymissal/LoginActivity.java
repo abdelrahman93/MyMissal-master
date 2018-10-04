@@ -163,5 +163,8 @@ hideView(loginScreen);
         }
 
     }
+    public  void testMethod(){
+        int y=5+2;
+    }
 
 }
